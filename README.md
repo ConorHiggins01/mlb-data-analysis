@@ -1,5 +1,5 @@
 MLB Batting Statistics Analysis
-Project Overview
+Project Overview: 
 This project analyzes the relationship between different batting statistics for the top-performing MLB hitters in the 2024 season. Using web-scraped data from MLB.com, I conducted statistical tests and created visualizations to explore whether traditional metrics like batting average correlate with power hitting metrics like home runs.
 Key Research Question
 Do players with higher batting averages tend to hit more home runs, or are contact hitting and power hitting separate skills?
